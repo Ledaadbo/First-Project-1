@@ -140,6 +140,7 @@ header span {
   width: 650px;
   right: 0px;
   bottom: 0px;
+  filter: brightness(70%);
 }
 
 /* end-header */
